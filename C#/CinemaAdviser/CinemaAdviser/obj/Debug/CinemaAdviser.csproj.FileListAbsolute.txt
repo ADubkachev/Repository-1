@@ -1,6 +1,0 @@
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.exe.config
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.csprojResolveAssemblyReference.cache
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.exe
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\bin\Debug\CinemaAdviser.pdb
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.exe
-C:\Users\Александр\Desktop\Кодинг\С#\CinemaAdviser\CinemaAdviser\obj\Debug\CinemaAdviser.pdb
