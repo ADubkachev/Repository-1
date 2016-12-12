@@ -54,11 +54,11 @@ namespace Tgame
             }
             else if (GraphicsWindow.LastKey == "Left")
             {
-                Turtle.Angle = 270;
+                Turtle.Angle = 271;
             }
             else if (GraphicsWindow.LastKey == "Down")
             {
-                Turtle.Angle = 180;
+                Turtle.Angle = 181;
             }
 
         }
